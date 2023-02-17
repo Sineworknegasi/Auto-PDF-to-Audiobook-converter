@@ -28,7 +28,7 @@ after you pip install both of these library. the code should work without any pr
 # Text box
  Enter text in the texbox, then hit enter and you should hear a robotic speech.
  
-![](images/text.png)
+![](https://github.com/Sineworknegasi/Auto-PDF-to-Audiobook-converter/blob/main/Images/pdf.png)
 
 # Pdf box
  Select a pdf file and then check the number of pages. 
