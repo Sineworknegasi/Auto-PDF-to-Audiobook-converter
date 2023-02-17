@@ -3,22 +3,11 @@ Convert pdf to audiobooks 📚
 
 
 **Inspiration** : 
-I am a nerd 🤓. I like reading research papers, articles and books. I also travel alot often from my work city to my hometown. During which I tend to feel unwell on account of motion sickness, if I read while travelling. Have been looking for a tool but either some of them had paid implementation or restrictions. Also audiobooks are pretty cool to multitask on and keep them running in the background 🖖🏻
+I am a Sinework negasi 🤓. I like reading research papers, articles and books. I also travel alot often from my work city to my hometown. During which I tend to feel unwell on account of motion sickness, if I read while travelling. Have been looking for a tool but either some of them had paid implementation or restrictions. Also audiobooks are pretty cool to multitask on and keep them running in the background 🖖🏻
 
 So inspiration was to use existing tech available and with ~20 lines of code, build a simple, pdf -> audiobook generator. 🤞🏻
 
 ## Implementation
-
-Source code - [Auto Audio Book](https://github.com/bhavita/Auto-Audio-Books/blob/master/Auto_AudioBooks.ipynb)
-
-Steps 
-
-![steps](https://raw.githubusercontent.com/bhavita/Auto-Audio-Books/master/demo/Auto-Audiobook.png)
-
-1. Research Paper - [Scientific Research Paper](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/Scientific%20Method%20Research.pdf)
- Generated audiobook -  [Generated Audio](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/Scientific%20Method%20Research.mp3?raw=true) 
-3. Research Paper - [Research Paper](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/research-paper.pdf) 
-Generated audiobook - [Generated Audio](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/research-paper.mp3?raw=true) 
 
 ## License
  
